@@ -11,7 +11,7 @@ Code release for ICCV 2025 'MultiModal Action Conditioned Video Generation'
 -----
 ### set up
 
-`git clone `
+`git clone https://github.com/AntheaLi/MMVidSim.git`
 
 `mamba create -f environment.yaml`
 
