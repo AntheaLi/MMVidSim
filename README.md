@@ -1,7 +1,10 @@
-# mm-act
-
-## code local compile ready
-
-
-`ln -s <path to data> Dataset`
 # MMVidSim
+
+Yichen Li, Antonio Torralba
+
+--- 
+
+Code release for ICCV 2025 'MultiModal Action Conditioned Video Generation'
+
+
+
